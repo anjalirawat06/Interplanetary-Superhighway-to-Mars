@@ -1,0 +1,1 @@
+Run the Propagator_DC.m file to create a halo orbit at the Sun-Earth system L2 point with amplitude Az=1,20,000 km. This code uses Richardson's theoretical results as initial conditions for halo orbit propagation and then corrects those initial conditions using the Differential Correction technique to get an accuracy of ~10^-16.
