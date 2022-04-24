@@ -5,10 +5,10 @@ Result
 
 HALO ORBIT
 ----
-![alt text](https://github.com/anjalirawat06/Interplanetary Superhighway to Mars/blob/master/Final halo orbit DC=50, tolerances, 2 full circles.png?raw=true)
+![alt text](https://github.com/anjalirawat06/Interplanetary-Superhighway-to-Mars/blob/master/Final-halo-orbit-DC=50,-tolerances,-2-full-circles.png?raw=true)
 ----
 
 Velocity vs Time
 ----
-![alt text](https://github.com/anjalirawat06/Interplanetary Superhighway to Mars/blob/master/Final halo orbit DC=50, tolerances, 2 full circles, velocity profile.png?raw=true)
+![alt text](https://github.com/anjalirawat06/Interplanetary-Superhighway-to-Mars/blob/master/Final halo orbit DC=50, tolerances, 2 full circles, velocity profile.png?raw=true)
 ----
